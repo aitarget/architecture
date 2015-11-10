@@ -1,0 +1,2 @@
+# architecture
+Application architecture
